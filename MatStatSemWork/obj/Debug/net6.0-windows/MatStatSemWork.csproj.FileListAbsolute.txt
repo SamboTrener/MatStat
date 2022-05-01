@@ -1,0 +1,15 @@
+D:\DATA\Desktop\MatStatSemWork\MatStatSemWork\bin\Debug\net6.0-windows\MatStatSemWork.exe
+D:\DATA\Desktop\MatStatSemWork\MatStatSemWork\bin\Debug\net6.0-windows\MatStatSemWork.deps.json
+D:\DATA\Desktop\MatStatSemWork\MatStatSemWork\bin\Debug\net6.0-windows\MatStatSemWork.runtimeconfig.json
+D:\DATA\Desktop\MatStatSemWork\MatStatSemWork\bin\Debug\net6.0-windows\MatStatSemWork.dll
+D:\DATA\Desktop\MatStatSemWork\MatStatSemWork\bin\Debug\net6.0-windows\MatStatSemWork.pdb
+D:\DATA\Desktop\MatStatSemWork\MatStatSemWork\obj\Debug\net6.0-windows\MatStatSemWork.csproj.AssemblyReference.cache
+D:\DATA\Desktop\MatStatSemWork\MatStatSemWork\obj\Debug\net6.0-windows\MatStatSemWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATA\Desktop\MatStatSemWork\MatStatSemWork\obj\Debug\net6.0-windows\MatStatSemWork.AssemblyInfoInputs.cache
+D:\DATA\Desktop\MatStatSemWork\MatStatSemWork\obj\Debug\net6.0-windows\MatStatSemWork.AssemblyInfo.cs
+D:\DATA\Desktop\MatStatSemWork\MatStatSemWork\obj\Debug\net6.0-windows\MatStatSemWork.csproj.CoreCompileInputs.cache
+D:\DATA\Desktop\MatStatSemWork\MatStatSemWork\obj\Debug\net6.0-windows\MatStatSemWork.dll
+D:\DATA\Desktop\MatStatSemWork\MatStatSemWork\obj\Debug\net6.0-windows\refint\MatStatSemWork.dll
+D:\DATA\Desktop\MatStatSemWork\MatStatSemWork\obj\Debug\net6.0-windows\MatStatSemWork.pdb
+D:\DATA\Desktop\MatStatSemWork\MatStatSemWork\obj\Debug\net6.0-windows\MatStatSemWork.genruntimeconfig.cache
+D:\DATA\Desktop\MatStatSemWork\MatStatSemWork\obj\Debug\net6.0-windows\ref\MatStatSemWork.dll
